@@ -6,7 +6,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsv2 #maximum of 6 characters.  
+  namespace: rahulmlops #maximum of 6 characters.  
   postfix: 0001  
   location: eastus  
   environment: dev  
